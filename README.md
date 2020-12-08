@@ -73,12 +73,16 @@ Create a nice interactive map using the skills you leared in lesson 5: interacti
 For both maps, think a bit about the audience of the map, and pay attention to your cartographic choices. Check out [this blog post for further hints on creating good maps](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/). 
   
   
+ ## Exercise 5 grade and feedback: 20.0 / 20.0 points
+### Grader
+- sonjakoivisto
+### Problem scores
+- Problem 1: 10.0 / 10.0 
+- Problem 2: 10.0 / 10.0 
+- Problem 3: :sunny: / 0.0
+### Comments
   
-  
-  
-  
-  
-  
+Handsome maps following good cartographic practices. You found good data source for Finland covid cases. It was nice that you defined the classification function yourself. To keep the colorscale constant through the different months in the interactive map, you could define bins = [class1treshold, class2treshold, so on]. Then It'd be easier to visually quickly see the differences between month without looking at the legends. Also, a tooltip would help with this. Very good work and also good base for final exercise if you wish to continue with the same theme.
   
   
 
